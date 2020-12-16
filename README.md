@@ -1,4 +1,4 @@
-# Person Re-ID
+# Computer Vision Team Project
 
 This repo experiments with cross-data evaluation from pre-existing datasets such as Market1501 and CUKH-03 on our collected dataset. 
 
