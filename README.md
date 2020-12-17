@@ -1,4 +1,10 @@
-# Person Re-ID
+# Computer Vision Team Project
+### Team Members -
+- Bonaventure Raj
+- Ravina Gaikawad
+- Devon Faryadi
+- Narendra Pahuja 
+- Siddarth Panda 
 
 This repo experiments with cross-data evaluation from pre-existing datasets such as Market1501 and CUKH-03 on our collected dataset. 
 
