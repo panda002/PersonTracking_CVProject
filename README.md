@@ -1,10 +1,4 @@
-# Computer Vision Team Project
-### Team Members -
-- Bonaventure Raj
-- Ravina Gaikawad
-- Devon Faryadi
-- Narendra Pahuja 
-- Siddarth Panda 
+# Person Re-ID
 
 This repo experiments with cross-data evaluation from pre-existing datasets such as Market1501 and CUKH-03 on our collected dataset. 
 
@@ -45,11 +39,11 @@ But also, performed poorly in some examples,
 
 |             | Softmax+CLE (Crop, Flip)     | Softmax+CLE(Crop, Flip, CJitter, Patch)     | TripletLoss (Crop, Flip)     |
 |:-------:    |:------------------------:    |:---------------------------------------:    |:------------------------:    |
-|   mAP       |           45.6%              |                  42.9%                      |           45.8%              |
-|  Rank@1     |           10.1%              |                  35.9%                      |           12.7%              |
-|  Rank@5     |           25.3%              |                  66.7%                      |           30.4%              |
-| Rank@10     |           53.2%              |                  79.5%                      |           51.9%              |
-| Rank@20     |           63.3%              |                  84.6%                      |           67.1%              |
+|   mAP       |           45.6%              |                  92.9%                      |           95.4%              |
+|  Rank@1     |           10.1%              |                  97.1%                      |           95.6%              |
+|  Rank@5     |           25.3%              |                  100.0%                      |           98.5%              |
+| Rank@10     |           53.2%              |                  100.0%                      |           98.5%              |
+| Rank@20     |           63.3%              |                  100.0%                      |           98.5%              |
 
 ## References
 
